@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/mf6IrOdbGlQ?si=AEqvUDPkLlkuW_F3)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -38,17 +38,51 @@ Use the URL: http://localhost/osTicket to create a ticket as Karen.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/714c0de4-64a6-4ec5-9dc0-3f59bb3cba20" />
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/02968e25-0e0a-4ab8-94cb-e3a8e981108a" />
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/4af5799e-3f10-45cc-a6e2-4d083e66ad4a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will use the URL: http://localhost/osTicket/scp/login.php to log in as John to work the ticket.
+
+Set Properties to the ticket:
+
+Sev-A (1 hour, 24/7)
+
+Online Banking Department
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/6365dd04-a280-485c-95aa-6d64933c9f42" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into the admin portal as Jane to solve the ticket.
 </p>
 <br />
+
+<p>
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/1a432a6d-b476-47ae-af98-1fd51694ace7" />
+</p>
+<p>
+When you solve the ticket, reply to the thread.
+</p>
+<br />
+
+<p>
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/c1f08b59-c0c4-479b-bc0b-6f8e17b1291b" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/a8ed3aaa-d9f5-495a-ba90-f6c102d508e4" />
+</p>
+<p>
+Update the status to "resolved"
+</p>
+<br />
+
+<p align="center">
+NOTE:
+
+Most ticketing systems have email capability, so when you update a ticket, the user receives a copy and can respond.
+
+Each ticket has a different response time and severity.
+
+You should create tickets for everything you do, even if people ask you to fix things on the spot.
